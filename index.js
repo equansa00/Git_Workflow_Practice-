@@ -2,7 +2,7 @@ let clickedCard = null;
 let preventClick = false;
 let combosFound = 0;
 
-
+//colors
 const colors = [
 'red',
 'purple',
